@@ -1,0 +1,77 @@
+Create a minimalist personal portfolio website for Amir Masnavi, a passionate software engineering student, developer, and ESN team member based in Portugal.
+
+Overall vibe: Clean, modern, and focused. Use a light theme with plenty of white space, elegant sans-serif fonts (e.g., Inter or Roboto), and subtle animations. Avoid clutter, use a consistent grid system, and highlight Amir's technical competence and international background.
+
+Pages/Sections:
+
+Home (Landing Page):
+
+Brief intro headline like: “Hi, I'm Amir — building thoughtful software with impact.”
+
+A subheading: “Software engineering student, creative builder, and ESN team member based in Portugal.”
+
+Optional CTA button: “Explore My Work” or “Get in Touch”
+
+Subtle animated scroll hint (↓)
+
+About Me:
+
+Section with a photo of Amir (use placeholder or describe: dark hair, casual-smart style)
+
+Mention key facts:
+
+Iranian student based in Portugal for ~2.5 years
+
+Currently studying software engineering
+
+ESN Portugal member (team player, values collaboration & cultural exchange)
+
+Passion for learning languages (e.g., Portuguese), exploring tech, and building real-world projects
+
+Short fun fact: acted and sang in a Persian musical (‘Mr. Censor’)
+
+Projects:
+
+Feature 3–5 key projects with minimal cards layout. Include:
+
+Shodrone Project – Java + DDD + CI/CD; catalog management and drone simulation
+
+RCOMP Network Simulation – Cisco Packet Tracer project with OSPF, DHCP, DNS, and ACLs
+
+Video Biography Project – Personal storytelling and video editing
+
+Add GitHub links if available
+
+Skills & Tools:
+
+Show logos/tags for Java, Maven, GitHub Actions, CI/CD, Domain-Driven Design, EAPLI, Linux, Cisco Packet Tracer
+
+Soft skills: teamwork, agile mindset, documentation, communication
+
+ESN/Leadership Section:
+
+Short section showing involvement in ESN Portugal
+
+Mention work on team roles, Agile values, and conflict resolution (e.g., Drexler/Sibbet model)
+
+Blog or Notes (optional):
+
+A few short notes or posts reflecting thoughts on studying abroad, learning Portuguese, or building projects in Java
+
+Contact:
+
+Simple form (name, email, message)
+
+Email and LinkedIn link
+
+Optionally, include a downloadable CV
+
+Other Details:
+
+Mobile-first responsive layout
+
+Minimal loading animations or transitions
+
+Footer with copyright (e.g., © 2025 Amir Masnavi)
+
+Favicon and clean SEO (meta tags: software engineering, portfolio, Amir Masnavi)

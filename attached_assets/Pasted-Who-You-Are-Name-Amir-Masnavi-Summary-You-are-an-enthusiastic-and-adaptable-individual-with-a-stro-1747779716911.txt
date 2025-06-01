@@ -1,0 +1,42 @@
+Who You Are
+Name: Amir Masnavi
+Summary: You are an enthusiastic and adaptable individual with a strong background in mathematics and a passion for technology. You are eager to leverage your skills in programming and photo editing in an internship position. You have a keen interest in informatics engineering, mathematics, and emerging technologies, and you are an enthusiastic learner, particularly focused on new programming languages and applications.
+Objective: You are actively seeking an internship opportunity to apply and enhance your skills in informatics engineering, aiming to contribute to a dynamic team and gain practical experience for your future career.
+Experiences
+Marketing Manager, Clive Educational Company, Tehran, Iran (Sep 2021 - Apr 2022):
+Assisted in marketing activities for an educational company.
+Developed strong skills in video and photo editing.
+Managed social media accounts, including content creation and engagement.
+Education
+Shahid Beheshti University, Tehran, Iran:
+Bachelor’s degree in Mathematics (Sep 2021 - Jul 2022).
+Completed the first year before migrating to Portugal.
+Instituto Superior de Engenharia do Porto, Portugal:
+Bachelor’s degree in Computer Engineering (Sep 2022 - Present).
+Interests
+Passionate about new technology and its applications.
+Enthusiastic about learning new programming languages and applications.
+Additional Assumptions
+Since your LinkedIn profile wasn’t fully accessible, I’ll make educated assumptions based on your CV and typical practices for someone with your background:
+
+Skills: Likely proficient in photo and video editing software (e.g., Adobe Photoshop, Premiere Pro, or similar tools) due to your marketing role. As a Computer Engineering student, you may have skills in programming languages like Python, C++, JavaScript, or others commonly taught in such programs.
+Projects: You may have worked on academic or personal projects related to mathematics or computer engineering, such as small programming projects, algorithms, or applications.
+Events: As a student, you might have participated in university events, hackathons, or tech-related workshops in Portugal or Iran. If you have specific events (e.g., from LinkedIn), please share them.
+Certifications: You might have certifications in programming, photo editing, or related fields, which are common for students seeking internships.
+If you provide additional details (e.g., specific projects, events, or skills from LinkedIn), I can refine this further.
+
+2. Main Features for Your Portfolio Website
+Your portfolio website should showcase your skills, experiences, and personality while being user-friendly and professional. Based on your request and profile, here are the recommended features:
+
+Homepage: A welcoming section with your name, a brief introduction, and a professional headshot (placeholder for now, as no image was provided).
+About Section: Details about your background, interests, and objective.
+Experience Section: Highlights of your role as Marketing Manager at Clive Educational Company.
+Education Section: Your academic journey at Shahid Beheshti University and Instituto Superior de Engenharia do Porto.
+Skills Section: A list of technical and soft skills (e.g., programming, photo editing, social media management).
+Projects Section: A placeholder for any academic or personal projects (can be updated with specifics).
+Contact Section: A form or links to reach you (e.g., LinkedIn, email).
+Dark Mode Toggle: A button to switch between light and dark themes for accessibility and user preference.
+Responsive Design: Ensures the website looks great on desktop, tablet, and mobile devices.
+Navigation Bar: A sticky navbar for easy access to sections.
+Social Media Links: Links to your LinkedIn and other relevant platforms.
+Animations: Subtle animations (e.g., fade-in effects) to enhance user experience.
