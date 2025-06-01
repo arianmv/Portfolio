@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Code, Mail, Gift, MapPin, GraduationCap, Languages } from "lucide-react";
+import profileImage from "@/assets/profile-image.png";
 
 const AboutSection = () => {
   return (
@@ -36,7 +37,7 @@ const AboutSection = () => {
                   transition={{ duration: 0.5 }}
                 >
                   <img 
-                    src="src/assets/profile-image.png" 
+                    src={profileImage}
                     alt="Amir Masnavi" 
                     className="w-full h-full object-cover rounded-lg" 
                   />

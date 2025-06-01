@@ -90,6 +90,7 @@ import { fileURLToPath } from "url";
 var __filename = fileURLToPath(import.meta.url);
 var __dirname = path.dirname(__filename);
 var vite_config_default = defineConfig({
+  // base: '/portfolio/',
   plugins: [
     react(),
     runtimeErrorOverlay(),

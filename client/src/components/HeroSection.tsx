@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { ArrowDown, MousePointer, Code, PenTool } from "lucide-react";
+import profileImage from "@/assets/profile-image.png";
 
 const HeroSection = () => {
   const textRef = useRef<HTMLDivElement>(null);
@@ -137,11 +138,11 @@ const HeroSection = () => {
                 animate={{ rotate: [0, 1, 0, -1, 0] }}
                 transition={{ repeat: Infinity, duration: 6, ease: "easeInOut" }}
               >
-                <img 
-                  src="src/assets/profile-image.png" 
-                  alt="Amir Masnavi" 
-                  className="w-full h-full object-cover object-center" 
-                />
+              <img 
+                src={profileImage}
+                alt="Amir Masnavi"
+                className="w-full h-full object-cover object-center"
+              />
               </motion.div>
               
               {/* Decorative elements */}
