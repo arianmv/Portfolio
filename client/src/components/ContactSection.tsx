@@ -224,10 +224,10 @@ const ContactSection = () => {
                   <div>
                     <h4 className="marker-text text-lg text-primary mb-1">Email</h4>
                     <a 
-                      href="mailto:amir.masnavi@example.com" 
+                      href="mailto:a.masnavi1382@gmail.com" 
                       className="text-accent hover:text-accent/80 transition block mb-1"
                     >
-                      amir.masnavi@example.com
+                      a.masnavi1382@gmail.com
                     </a>
                     <div className="flex items-center text-foreground/60 text-sm">
                       <Clock className="h-4 w-4 mr-1" />
@@ -246,7 +246,7 @@ const ContactSection = () => {
                   <div>
                     <h4 className="marker-text text-lg text-primary mb-1">LinkedIn</h4>
                     <a 
-                      href="https://linkedin.com/in/amir-masnavi" 
+                      href="https://www.linkedin.com/in/amir-masnavi-b1ab61293" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="text-accent hover:text-accent/80 transition block mb-1"
@@ -267,12 +267,12 @@ const ContactSection = () => {
                   <div>
                     <h4 className="marker-text text-lg text-primary mb-1">GitHub</h4>
                     <a 
-                      href="https://github.com/amir-masnavi" 
+                      href="https://github.com/arianmv" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="text-accent hover:text-accent/80 transition block mb-1"
                     >
-                      github.com/amir-masnavi
+                      github.com/arianmv
                     </a>
                     <p className="text-foreground/60 text-sm">Check out my code repositories</p>
                   </div>
@@ -302,7 +302,7 @@ const ContactSection = () => {
               >
                 <h4 className="handwritten text-xl text-primary mb-4">Download my Resume</h4>
                 <a 
-                  href="#" 
+                  href="https://drive.google.com/file/d/1PdXCsM6_-1tJ-deOaXX_7e_kFnskWiFw/view?usp=drive_link" 
                   className="inline-flex items-center px-6 py-3 bg-primary hover:bg-primary/80 text-primary-foreground font-medium rounded-md transition shadow-sm"
                 >
                   <Download className="h-5 w-5 mr-2" />

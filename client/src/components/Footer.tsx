@@ -45,7 +45,7 @@ const Footer = () => {
               </p>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/amir-masnavi" 
+                  href="https://github.com/arianmv" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-2 bg-accent/10 rounded-full text-foreground hover:text-accent transition"
@@ -54,7 +54,7 @@ const Footer = () => {
                   <Github className="h-5 w-5" />
                 </a>
                 <a 
-                  href="https://linkedin.com/in/amir-masnavi" 
+                  href="https://www.linkedin.com/in/amir-masnavi-b1ab61293" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="p-2 bg-accent/10 rounded-full text-foreground hover:text-accent transition"
@@ -63,7 +63,7 @@ const Footer = () => {
                   <Linkedin className="h-5 w-5" />
                 </a>
                 <a 
-                  href="mailto:amir.masnavi@example.com" 
+                  href="mailto:a.masnavi1382@gmail.com" 
                   className="p-2 bg-accent/10 rounded-full text-foreground hover:text-accent transition"
                   aria-label="Email"
                 >

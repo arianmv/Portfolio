@@ -88,7 +88,7 @@ const HeroSection = () => {
               ref={textRef}
               className="text-xl md:text-2xl text-foreground/80 mb-8"
             >
-              Enthusiastic & adaptable developer with a passion for technology
+              Adaptable developer with a passion for technology
             </div>
             
             <motion.p 

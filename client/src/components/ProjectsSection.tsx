@@ -9,7 +9,7 @@ const projects = [
     description: "A comprehensive catalog management and drone simulation system built using Domain-Driven Design principles and CI/CD practices.",
     icon: <Shield className="h-8 w-8 text-accent" />,
     linkText: "View on GitHub",
-    linkUrl: "#",
+    linkUrl: "https://github.com/Departamento-de-Engenharia-Informatica/sem4pi-2024-2025-sem4pi_2024_2025_g68",
   },
   {
     id: 2,
@@ -18,16 +18,16 @@ const projects = [
     description: "A comprehensive network simulation using Cisco Packet Tracer that implements OSPF routing, DHCP, DNS services, and Access Control Lists.",
     icon: <Globe className="h-8 w-8 text-accent" />,
     linkText: "View on GitHub",
-    linkUrl: "#",
+    linkUrl: "https://bitbucket.org/rcomp-24-25-2dn/rcomp-24-25-2dn-e-g3/src/master/",
   },
   {
     id: 3,
-    title: "Video Biography Project",
-    tags: ["Storytelling", "Video Editing"],
-    description: "A personal storytelling project that combines narrative development with advanced video editing techniques to create a compelling biography.",
-    icon: <Video className="h-8 w-8 text-accent" />,
+    title: "portfolio Website",
+    tags: ["React", "Tailwind CSS", "Framer Motion"],
+    description: "A personal portfolio website showcasing my projects and skills, built with React, Tailwind CSS, and Framer Motion for animations.",
+    icon: <Code className="h-8 w-8 text-accent" />,
     linkText: "View Project",
-    linkUrl: "#",
+    linkUrl: "https://github.com/arianmv/portfolio",
   },
 ];
 
@@ -174,7 +174,7 @@ const ProjectsSection = () => {
             className="mt-12 text-center"
           >
             <a 
-              href="https://github.com" 
+              href="https://github.com/arianmv" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="inline-flex items-center px-6 py-3 bg-background border border-border hover:border-accent text-foreground hover:text-accent font-medium rounded-md transition shadow-sm"
